@@ -11,7 +11,7 @@ This project is an interactive Excel dashboard built using Microsoft Excel to an
 ### 🏠 First Page
 
 <p align="center">
-  <img src="Images/First_Page.png" alt="First Page" width="1000">
+  <img src="Dashboard Screenshot/First_Page.png" alt="First Page" width="1000">
 </p>
 
 ---
@@ -19,7 +19,7 @@ This project is an interactive Excel dashboard built using Microsoft Excel to an
 ### 📊 Second Page
 
 <p align="center">
-  <img src="Images/Second_Page.png" alt="Second Page" width="1000">
+  <img src="Dashboard Screenshot/Second_Page.png" alt="Second Page" width="1000">
 </p>
 
 ---
@@ -27,7 +27,7 @@ This project is an interactive Excel dashboard built using Microsoft Excel to an
 ### 📈 Third Page
 
 <p align="center">
-  <img src="Images/Third_Page.png" alt="Third Page" width="1000">
+  <img src="Dashboard Screenshot/Third_Page.png" alt="Third Page" width="1000">
 </p>
 
 ---
@@ -35,7 +35,7 @@ This project is an interactive Excel dashboard built using Microsoft Excel to an
 ### 🎛️ Final Dashboard
 
 <p align="center">
-  <img src="Images/Last_Page.png" alt="Final Dashboard" width="1000">
+  <img src="Dashboard Screenshot/Last_Page.png" alt="Final Dashboard" width="1000">
 </p>
 
 ---
