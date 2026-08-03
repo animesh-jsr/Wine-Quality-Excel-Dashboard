@@ -8,36 +8,21 @@ This project is an interactive Excel dashboard built using Microsoft Excel to an
 
 ## 📸 Dashboard Preview
 
-### 🏠 First Page
-
 <p align="center">
-  <img src="Dashboard Screenshot/First_Page.png" alt="First Page" width="1000">
+  <img src="First_Page.png" alt="First Page" width="1000">
 </p>
 
----
-
-### 📊 Second Page
-
 <p align="center">
-  <img src="Dashboard Screenshot/Second_Page.png" alt="Second Page" width="1000">
+  <img src="Second_Page.png" alt="Second Page" width="1000">
 </p>
 
----
-
-### 📈 Third Page
-
 <p align="center">
-  <img src="Dashboard Screenshot/Third_Page.png" alt="Third Page" width="1000">
+  <img src="Third_Page.png" alt="Third Page" width="1000">
 </p>
 
----
-
-### 🎛️ Final Dashboard
-
 <p align="center">
-  <img src="Dashboard Screenshot/Last_Page.png" alt="Final Dashboard" width="1000">
+  <img src="Last_Page.png" alt="Last Page" width="1000">
 </p>
-
 ---
 
 ## 📊 Features
