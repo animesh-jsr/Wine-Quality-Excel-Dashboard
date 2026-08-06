@@ -13,11 +13,11 @@ This project is an interactive Excel dashboard built using Microsoft Excel to an
 </p>
 
 <p align="center">
-  <img src="Second_Page.png" alt="Second Page" width="1000">
+  <img src="Third_Page.png" alt="Third Page" width="1000">
 </p>
 
 <p align="center">
-  <img src="Third_Page.png" alt="Third Page" width="1000">
+  <img Second_Page.png" alt="Second Page" width="1000">
 </p>
 
 <p align="center">
